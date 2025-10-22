@@ -2,3 +2,4 @@ ipykernel
 opencv-python
 numpy
 ultralytics
+lap

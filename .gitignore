@@ -1,1 +1,4 @@
+yolo*.pt
+
 env/
+runs/
