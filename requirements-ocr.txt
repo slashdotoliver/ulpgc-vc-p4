@@ -1,0 +1,6 @@
+ipykernel
+easyocr
+paddlepaddle==3.2.1
+opencv-python
+numpy
+lap
